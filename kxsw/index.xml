@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>科学上网 on Documentation for Hugo Learn Theme</title>
+    <link>https://eiuapp.github.io/network-handbook/kxsw.html</link>
+    <description>Recent content in 科学上网 on Documentation for Hugo Learn Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Jan 2019 21:07:13 +0100</lastBuildDate>
+    
+	<atom:link href="https://eiuapp.github.io/network-handbook/kxsw/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vultr如何更换机房/更换IP</title>
+      <link>https://eiuapp.github.io/network-handbook/kxsw/vultr-change-ip.html</link>
+      <pubDate>Tue, 08 Jan 2019 21:07:13 +0100</pubDate>
+      
+      <guid>https://eiuapp.github.io/network-handbook/kxsw/vultr-change-ip.html</guid>
+      <description>Vultr如何更换机房/更换IP
+https://www.vultryhw.cn/vultr-change-location-ip/
+Vultr被墙-Vultr IP 端口被墙的解决办法
+ https://www.vultrblog.com/vultr-wall/.html  Vultr备份-利用Vultr快照Snapshots进行数据备份
+https://www.vultrblog.com/vultr-backup/.html
+Vultr备份恢复-怎么恢复Vultr备份的数据到新的VPS上面
+https://www.vultrblog.com/vultr-backup-recovery/.html</description>
+    </item>
+    
+    <item>
+      <title>vultr(vps)搭建ss</title>
+      <link>https://eiuapp.github.io/network-handbook/kxsw/vultr-install-ss.html</link>
+      <pubDate>Tue, 08 Jan 2019 21:07:13 +0100</pubDate>
+      
+      <guid>https://eiuapp.github.io/network-handbook/kxsw/vultr-install-ss.html</guid>
+      <description>使用vultr(vps)搭建ss并开启BBR快速上网教程 超简单10分钟搞定
+https://wistbean.github.io/vultr-vps-bbr-ss.html</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>前言 on Documentation for Hugo Learn Theme</title>
+    <link>https://eiuapp.github.io/network-handbook/</link>
+    <description>Recent content in 前言 on Documentation for Hugo Learn Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Jan 2019 21:07:13 +0100</lastBuildDate>
+    
+	<atom:link href="https://eiuapp.github.io/network-handbook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vultr如何更换机房/更换IP</title>
+      <link>https://eiuapp.github.io/network-handbook/kxsw/vultr-change-ip.html</link>
+      <pubDate>Tue, 08 Jan 2019 21:07:13 +0100</pubDate>
+      
+      <guid>https://eiuapp.github.io/network-handbook/kxsw/vultr-change-ip.html</guid>
+      <description>Vultr如何更换机房/更换IP
+https://www.vultryhw.cn/vultr-change-location-ip/
+Vultr被墙-Vultr IP 端口被墙的解决办法
+ https://www.vultrblog.com/vultr-wall/.html  Vultr备份-利用Vultr快照Snapshots进行数据备份
+https://www.vultrblog.com/vultr-backup/.html
+Vultr备份恢复-怎么恢复Vultr备份的数据到新的VPS上面
+https://www.vultrblog.com/vultr-backup-recovery/.html</description>
+    </item>
+    
+    <item>
+      <title>vultr(vps)搭建ss</title>
+      <link>https://eiuapp.github.io/network-handbook/kxsw/vultr-install-ss.html</link>
+      <pubDate>Tue, 08 Jan 2019 21:07:13 +0100</pubDate>
+      
+      <guid>https://eiuapp.github.io/network-handbook/kxsw/vultr-install-ss.html</guid>
+      <description>使用vultr(vps)搭建ss并开启BBR快速上网教程 超简单10分钟搞定
+https://wistbean.github.io/vultr-vps-bbr-ss.html</description>
+    </item>
+    
+    <item>
+      <title>Vultr IP 端口被墙</title>
+      <link>https://eiuapp.github.io/network-handbook/ip-port/ip-port-check.html</link>
+      <pubDate>Tue, 08 Jan 2019 21:07:13 +0100</pubDate>
+      
+      <guid>https://eiuapp.github.io/network-handbook/ip-port/ip-port-check.html</guid>
+      <description> 怎么检测Vultr被墙  在国内检测 http://coolaf.com/tool/port 在国外检测 https://www.yougetsignal.com/tools/open-ports/  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://eiuapp.github.io/network-handbook/README.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiuapp.github.io/network-handbook/README.html</guid>
+      <description>学习笔记 内容介绍 关于 network , 主要包括一些学习笔记
+访问方式 请点击下面的链接阅读:
+ 在线阅读：hugo格式，界面清爽。 @github：源码托管于github，如有谬误或需讨论，请提issue，欢迎提交PR  版权申明 本笔记内容可以任意转载，但请注明来源并提供链接，请勿用于商业出版。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://eiuapp.github.io/network-handbook/SUMMARY.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiuapp.github.io/network-handbook/SUMMARY.html</guid>
+      <description> Summary  Introduction   [](post/.md)  [](post/.md) [](post/.md)  [](post/.md)  [](post/.md) [](post/.md)   </description>
+    </item>
+    
+  </channel>
+</rss>
