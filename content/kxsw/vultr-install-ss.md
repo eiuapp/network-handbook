@@ -13,3 +13,11 @@ description : "vultr"
 
 https://wistbean.github.io/vultr-vps-bbr-ss.html 
 
+## 安装shell script
+
+```bash
+yum install wget
+wget --no-check-certificate -O shadowsocks.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
+chmod +x shadowsocks.sh
+./shadowsocks.sh 2>&1 | tee shadowsocks.log
+```
