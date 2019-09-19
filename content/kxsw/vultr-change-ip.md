@@ -23,3 +23,9 @@ https://www.vultrblog.com/vultr-backup/.html
 Vultr备份恢复-怎么恢复Vultr备份的数据到新的VPS上面
 
 https://www.vultrblog.com/vultr-backup-recovery/.html
+
+## IP名单
+
+- 140.82.7.80
+- 149.28.63.226
+- 45.63.5.1
