@@ -9,7 +9,13 @@ description : "ip"
 ---
 
 
-### 怎么检测Vultr被墙
+## 怎么检测Vultr被墙
 
-- 在国内检测 http://coolaf.com/tool/port
-- 在国外检测 https://www.yougetsignal.com/tools/open-ports/
+### 在国内检测 
+
+- http://coolaf.com/tool/port
+- https://ping.aizhan.com/
+
+### 在国外检测 
+
+- https://www.yougetsignal.com/tools/open-ports/
