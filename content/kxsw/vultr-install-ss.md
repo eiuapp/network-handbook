@@ -29,3 +29,10 @@ chmod +x shadowsocks.sh
 ```bash
 yum groupinstall "Development Tools"
 ```
+
+### which python
+
+```bash
+yum install python2
+ln -s /usr/bin/python2 /usr/bin/python
+```
