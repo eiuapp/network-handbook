@@ -36,3 +36,11 @@ https://www.vultrblog.com/vultr-backup-recovery/.html
 ### Sydney
 
 - 45.76.121.201
+
+### Silicon Valley
+
+- 144.202.97.111
+
+### London
+
+- 45.77.88.169
