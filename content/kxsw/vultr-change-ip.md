@@ -36,6 +36,7 @@ https://www.vultrblog.com/vultr-backup-recovery/.html
 ### Sydney
 
 - 45.76.121.201
+- 149.28.177.240
 
 ### Silicon Valley
 
@@ -44,3 +45,7 @@ https://www.vultrblog.com/vultr-backup-recovery/.html
 ### London
 
 - 45.77.88.169
+
+### Tokyo
+
+- 167.179.84.233
