@@ -22,6 +22,10 @@ chmod +x shadowsocks.sh
 ./shadowsocks.sh 2>&1 | tee shadowsocks.log
 ```
 
+## check ip-port
+
+- http://coolaf.com/tool/port
+
 ### no acceptable C compiler found in $PATH when installing 
 
  参考[这里](https://stackoverflow.com/questions/19816275/no-acceptable-c-compiler-found-in-path-when-installing-python)
@@ -35,4 +39,11 @@ yum groupinstall "Development Tools"
 ```bash
 yum install python2
 ln -s /usr/bin/python2 /usr/bin/python
+```
+
+### close firewalld
+
+```bash
+systemctl status firewalld.service
+systemctl stop firewalld.service
 ```
