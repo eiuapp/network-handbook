@@ -24,6 +24,8 @@ chmod +x shadowsocks.sh
 
 ### no acceptable C compiler found in $PATH when installing 
 
+ 参考[这里](https://stackoverflow.com/questions/19816275/no-acceptable-c-compiler-found-in-path-when-installing-python)
+
 ```bash
 yum groupinstall "Development Tools"
 ```
